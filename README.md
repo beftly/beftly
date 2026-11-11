@@ -1,16 +1,23 @@
-## Hi there 👋
+## Mubeen Khan
 
-<!--
-**beftly/beftly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Performance marketing and AI automation consultant in Dubai. I run Meta (Facebook and Instagram) Ads, Google Ads, sales funnels and AI agents for businesses in the UAE, USA, Australia and New Zealand.
 
-Here are some ideas to get you started:
+Website: [mubeenkhan.co](https://mubeenkhan.co)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Results with screenshots: [mubeenkhan.co/results](https://mubeenkhan.co/results)
+
+### Guides
+
+[How much do Meta (Facebook) ads cost in Dubai?](https://mubeenkhan.co/insights/meta-ads-cost-dubai)
+
+[Facebook Ads vs Google Ads: which should your business run first?](https://mubeenkhan.co/insights/facebook-ads-vs-google-ads)
+
+[What are AI agents? How they work, examples, risks and costs](https://mubeenkhan.co/insights/what-are-ai-agents)
+
+[What is n8n? How it works, pricing and AI agents for business](https://mubeenkhan.co/insights/what-is-n8n)
+
+[ChatGPT ads: how advertising in ChatGPT works](https://mubeenkhan.co/insights/chatgpt-ads)
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/memubeenkhan/) | heymubeenkhan@gmail.com
